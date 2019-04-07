@@ -1,0 +1,11 @@
+This game consists of 4 entities: octopus, shark, diver, and obstacle.
+
+Octopus is the main character, and it can be moved around with the arrow keys. The sharks are supposed to chase the
+octopus. The objective of the game is to not get caught by the shark. If you are caught by the shark, no worries,
+the octopus will respawn in a new location, and you can keep playing.
+
+If you wish, you can add a diver entity to the game by pressing the mouse on any square that is not occupied. The diver
+helps to protect the octopus as it will chase after the shark. If the diver catches the shark, the shark will be moved
+to somewhere else on the screen.
+
+In addition to spawning the diver, a mouse press will reshuffle all of the obstacles on the screen.
